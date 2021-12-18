@@ -1,5 +1,3 @@
-# articlesLog
-
 # ARTICLES DU LOG_MAGAZINE
 
 Fondateur et rédacteur de la catégorie "Actus économiques et juridiques" puis rédacteur en chef adjoint au Log_Magazine, je vous proposes la liste des articles que j'ai eu le plaisir d'écrire au sein de la rédaction. 
