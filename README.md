@@ -6,7 +6,7 @@ Mise en page: Nicolas PRÉVOT
 
 Co-rédacteur pour l'article "Le seigneur des anneaux, une épopée indémodable": Anthony LAVAL
 
-Correcteurs: Membres de la rédaction et professeurs de communication du département informatique de l'IUT du Limouzin
+Correcteurs: Membres de la rédaction et professeurs de communication du département informatique de l'IUT du Limousin
 
 L'ensemble de ces articles sont placés sous la licence: [CC BY-NC-SA](#licence)
 
